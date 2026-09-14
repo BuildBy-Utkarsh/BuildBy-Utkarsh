@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>☕ Java + 🎨 Frontend = dangerous combo<br>📍 NCR, India | 🧩 DSA grinder by day, bug whisperer by night<br>⚡ Turning Stack Overflow visits into actual understanding<br>🚀 Early days. Big goals. Watch this space.<br>
+💫 About Me:<br>☕ DSA + 🎨 Frontend <br>📍 NCR, India | 🧩 DSA grinder by day, bug whisperer by night<br>⚡ Turning Stack Overflow visits into actual understanding<br>🚀 Early days. Big goals. Watch this space.<br>
 
 
 ## 🌐 Socials:
