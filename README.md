@@ -130,7 +130,7 @@ I regularly share my coding progress, projects, problem-solving practice and dev
   <a href="https://x.com/UtkarshSolves"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/></a>
   <a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/utkarshsolves/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/profile/utkarsh221?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/utkarsh221"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="https://discord.gg/H9hScTpCHh"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
