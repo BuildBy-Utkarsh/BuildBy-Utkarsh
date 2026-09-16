@@ -3,15 +3,9 @@
 <h3 align="center">Software Developer • DSA in C++ • Frontend Development</h3>
 
 <p align="center">
-  <a href="https://github.com/BuildBy-Utkarsh">
-    <img src="https://komarev.com/ghpvc/?username=BuildBy-Utkarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">
-    <img src="https://img.shields.io/github/stars/BuildBy-Utkarsh?affiliations=OWNER&style=flat" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/BuildBy-Utkarsh?tab=followers">
-    <img src="https://img.shields.io/github/followers/BuildBy-Utkarsh?style=flat" alt="GitHub Followers"/>
-  </a>
+  <a href="https://github.com/BuildBy-Utkarsh"><img src="https://komarev.com/ghpvc/?username=BuildBy-Utkarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
+  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories"><img src="https://img.shields.io/github/stars/BuildBy-Utkarsh?affiliations=OWNER&style=flat" alt="GitHub Stars"/></a>
+  <a href="https://github.com/BuildBy-Utkarsh?tab=followers"><img src="https://img.shields.io/github/followers/BuildBy-Utkarsh?style=flat" alt="GitHub Followers"/></a>
 </p>
 
 <p align="center">
@@ -55,8 +49,18 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+  <a href="https://github.com/BuildBy-Utkarsh">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/BuildBy-Utkarsh">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BuildBy-Utkarsh">
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=true" alt="GitHub Analytics"/>
+  </a>
 </p>
 
 ---
@@ -72,7 +76,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildBy-Utkarsh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildBy-Utkarsh&theme=tokyo-night&hide_border=true&area=true&custom_title=Utkarsh's%20Contribution%20Graph" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
@@ -92,23 +96,9 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
       <p align="center"><a href="https://github.com/BuildBy-Utkarsh/web-dev"><strong>View Repository →</strong></a></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Amazon Clone</h3>
-      <p align="center">A frontend project built while practicing HTML and CSS.</p>
-      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/amazon-clone"><strong>View Repository →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">NeetCode Submissions</h3>
-      <p align="center">Problem-solving submissions and practice from NeetCode.</p>
-      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/neetcode-submissions"><strong>View Repository →</strong></a></p>
-    </td>
-  </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">View all repositories →</a>
-</p>
+<p align="center"><a href="https://github.com/BuildBy-Utkarsh?tab=repositories">View all repositories →</a></p>
 
 ---
 
@@ -128,9 +118,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 
 I regularly share my coding progress, projects, problem-solving practice and development journey.
 
-<p align="center">
-  <a href="https://x.com/UtkarshSolves"><img src="https://img.shields.io/badge/Follow%20my%20journey%20on%20X-000000?style=for-the-badge&logo=x" alt="Follow on X"/></a>
-</p>
+<p align="center"><a href="https://x.com/UtkarshSolves"><img src="https://img.shields.io/badge/Follow%20my%20journey%20on%20X-000000?style=for-the-badge&logo=x" alt="Follow on X"/></a></p>
 
 ---
 
