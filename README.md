@@ -33,7 +33,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 ## 🛠️ Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,html,css" alt="Languages"/></p>
+<p><img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript" alt="Languages"/></p>
 
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" alt="Frontend"/></p>
@@ -54,12 +54,6 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
   </a>
   <a href="https://github.com/BuildBy-Utkarsh">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BuildBy-Utkarsh">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&hide=issues,contribs&theme=tokyonight&hide_border=true" alt="GitHub Analytics"/>
   </a>
 </p>
 
