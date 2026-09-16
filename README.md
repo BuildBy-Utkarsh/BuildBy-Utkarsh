@@ -49,12 +49,8 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/BuildBy-Utkarsh">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/BuildBy-Utkarsh">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-  </a>
+  <a href="https://github.com/BuildBy-Utkarsh"><img width="49%" src="./profile/stats.svg" alt="GitHub Statistics"/></a>
+  <a href="https://github.com/BuildBy-Utkarsh"><img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages"/></a>
 </p>
 
 ---
@@ -62,7 +58,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=BuildBy-Utkarsh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -70,7 +66,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildBy-Utkarsh&theme=tokyo-night&hide_border=true&area=true&custom_title=Utkarsh's%20Contribution%20Graph" alt="GitHub Contribution Activity Graph"/>
+  <img src="./profile/activity-graph.svg" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
