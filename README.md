@@ -86,6 +86,18 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
       <p align="center"><a href="https://github.com/BuildBy-Utkarsh/web-dev"><strong>View Repository →</strong></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">100 Basic Problems</h3>
+      <p align="center">A collection of 100 basic programming problems for building problem-solving fundamentals.</p>
+      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/100BasicProblems"><strong>View Repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Amazon Clone</h3>
+      <p align="center">A frontend Amazon clone built while practicing HTML and CSS.</p>
+      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/amazon-clone"><strong>View Repository →</strong></a></p>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://github.com/BuildBy-Utkarsh?tab=repositories">View all repositories →</a></p>
