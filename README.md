@@ -1,39 +1,253 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buildby-utkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="buildby-utkarsh" /> </p>
+<h3 align="center">
+  Software Developer | DSA in C++ | Frontend Development
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buildby-utkarsh" alt="buildby-utkarsh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/utkarshsolves" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshsolves?logo=twitter&style=for-the-badge" alt="utkarshsolves" /></a> </p>
-
-- 🔭 I’m currently working on [DSA Series](https://github.com/BuildBy-Utkarsh/CPP-DSA-Series)
-
-- 🌱 I’m currently learning **Frontend**
-
-- 🤝 I’m looking for help with [Web-Dev](https://github.com/BuildBy-Utkarsh/web-dev)
-
-- 📝 I regularly write articles on [https://x.com/UtkarshSolves](https://x.com/UtkarshSolves)
-
-- 📫 How to reach me **singhutkarsh297@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/utkarshsolves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshsolves" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-pratap-singh-a297212a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-pratap-singh-a297212a5" height="30" width="40" /></a>
-<a href="https://instagram.com/rajput.utkarsh.thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajput.utkarsh.thakur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/utkarshsolves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/utkarshsolves/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/profile/utkarsh221?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="profile/utkarsh221?tab=activity" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/H9hScTpCHh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/H9hScTpCHh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/BuildBy-Utkarsh">
+    <img src="https://komarev.com/ghpvc/?username=BuildBy-Utkarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/BuildBy-Utkarsh">
+    <img src="https://img.shields.io/github/followers/BuildBy-Utkarsh?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/BuildBy-Utkarsh?affiliations=OWNER&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/BuildBy-Utkarsh">
+    <img src="https://img.shields.io/badge/GitHub-BuildBy--Utkarsh-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/UtkarshSolves">
+    <img src="https://img.shields.io/badge/X-@UtkarshSolves-000000?style=for-the-badge&logo=x" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buildby-utkarsh&show_icons=true&locale=en&layout=compact" alt="buildby-utkarsh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buildby-utkarsh&show_icons=true&locale=en" alt="buildby-utkarsh" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildby-utkarsh&" alt="buildby-utkarsh" /></p>
+I'm a developer from India focused on building strong fundamentals in **Data Structures & Algorithms, problem solving, and software development**.
+
+Currently, I'm working on improving my DSA skills with **C++** while continuing to build projects and strengthen my development fundamentals.
+
+```text
+🎯 Current Focus
+├── Data Structures & Algorithms
+├── Problem Solving
+├── C++
+├── Frontend Development
+├── Git & GitHub
+└── Building real-world projects
+```
+
+* 🔭 Currently working on **DSA in C++**
+* 🌱 Currently learning **DSA + Frontend Development**
+* 💻 Building projects to strengthen practical development skills
+* 🧠 Solving programming problems regularly
+* 📝 Sharing my learning journey on X
+* 📍 Based in India
+* ⚡ Fun fact: I think I'm funny 😄
+
+---
+
+## 🚀 What I'm Currently Working On
+
+### 🧩 C++ DSA Series
+
+A structured collection of my DSA learning journey, concepts, implementations and problem-solving practice.
+
+<a href="https://github.com/BuildBy-Utkarsh/CPP-DSA-Series">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BuildBy-Utkarsh&repo=CPP-DSA-Series&theme=tokyonight&hide_border=true" alt="CPP DSA Series"/>
+</a>
+
+### 🌐 Web Development
+
+Building frontend projects while strengthening:
+
+`HTML` • `CSS` • `JavaScript` • `React` • `Git` • `GitHub`
+
+<a href="https://github.com/BuildBy-Utkarsh/web-dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BuildBy-Utkarsh&repo=web-dev&theme=tokyonight&hide_border=true" alt="Web Development"/>
+</a>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postman,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=BuildBy-Utkarsh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildBy-Utkarsh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BuildBy-Utkarsh/BuildBy-Utkarsh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/BuildBy-Utkarsh/CPP-DSA-Series">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BuildBy-Utkarsh&repo=CPP-DSA-Series&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/BuildBy-Utkarsh/web-dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BuildBy-Utkarsh&repo=web-dev&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories"/>
+  </a>
+</p>
+
+---
+
+# 🧠 DSA Progress
+
+Currently focusing on building strong problem-solving fundamentals through consistent practice.
+
+```text
+C++
+ │
+ ├── Programming Fundamentals
+ ├── Arrays
+ ├── Searching
+ ├── Sorting
+ ├── Binary Search
+ ├── Bit Manipulation
+ ├── Mathematics
+ ├── Recursion
+ ├── Linked Lists
+ ├── Stacks & Queues
+ ├── Trees
+ ├── Graphs
+ ├── Dynamic Programming
+ └── Competitive Programming
+```
+
+📂 **DSA Repository:**
+https://github.com/BuildBy-Utkarsh/CPP-DSA-Series
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Build strong DSA fundamentals
+* [ ] Solve a large set of quality coding problems
+* [ ] Build production-style development projects
+* [ ] Improve problem-solving speed
+* [ ] Strengthen CS fundamentals
+* [ ] Contribute to open source
+* [ ] Become job-ready as a software developer
+* [ ] Keep building consistently 🚀
+
+---
+
+# 📚 Learning in Public
+
+I regularly share my coding and learning journey.
+
+<p align="center">
+
+<a href="https://x.com/UtkarshSolves">
+  <img src="https://img.shields.io/badge/Follow%20my%20Journey%20on%20X-000000?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://x.com/UtkarshSolves">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/utkarshsolves/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/profile/utkarsh221?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  📫 <strong>Email:</strong> singhutkarsh297@gmail.com
+</p>
+
+---
+
+<h3 align="center">
+  "Consistency beats intensity when intensity isn't consistent."
+</h3>
+
+<p align="center">
+  ⭐ If you find my repositories useful, consider giving them a star!
+</p>
