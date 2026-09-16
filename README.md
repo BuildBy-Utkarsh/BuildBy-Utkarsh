@@ -1,26 +1,22 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
 
-<h3 align="center">Software Developer | DSA in C++ | Frontend Development</h3>
+<h3 align="center">Software Developer • DSA in C++ • Frontend Development</h3>
 
 <p align="center">
   <a href="https://github.com/BuildBy-Utkarsh">
     <img src="https://komarev.com/ghpvc/?username=BuildBy-Utkarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/BuildBy-Utkarsh">
-    <img src="https://img.shields.io/github/followers/BuildBy-Utkarsh?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
   <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">
     <img src="https://img.shields.io/github/stars/BuildBy-Utkarsh?affiliations=OWNER&style=flat" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/BuildBy-Utkarsh?tab=followers">
+    <img src="https://img.shields.io/github/followers/BuildBy-Utkarsh?style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/UtkarshSolves">
-    <img src="https://img.shields.io/badge/X-@UtkarshSolves-000000?style=for-the-badge&logo=x" alt="X"/>
-  </a>
-  <a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <a href="https://x.com/UtkarshSolves"><img src="https://img.shields.io/badge/X-@UtkarshSolves-000000?style=for-the-badge&logo=x" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/"><img src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -31,59 +27,36 @@ I'm a developer from India focused on **problem solving, Data Structures & Algor
 
 Currently, I'm working with **C++ for DSA** while continuing to build frontend projects and strengthen my development fundamentals.
 
-* 🔭 Currently working on [C++ DSA Series](https://github.com/BuildBy-Utkarsh/CPP-DSA-Series)
-* 🌱 Currently learning **DSA + Frontend Development**
-* 💻 Building projects to improve my development skills
-* 🧠 Practicing problem solving consistently
-* 📝 Sharing my learning journey on X
-* 📫 Reach me at **[singhutkarsh297@gmail.com](mailto:singhutkarsh297@gmail.com)**
-* ⚡ Fun fact: **I think I'm funny 😄**
+- 🔭 Working on [C++ DSA Series](https://github.com/BuildBy-Utkarsh/CPP-DSA-Series)
+- 🌱 Learning **DSA + Frontend Development**
+- 💻 Building projects and practicing problem solving consistently
+- 📝 Sharing my learning journey on [X](https://x.com/UtkarshSolves)
+- 📫 **singhutkarsh297@gmail.com**
+- ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,html,css" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,html,css" alt="Languages"/></p>
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" alt="Frontend"/></p>
 
 ### Backend & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" alt="Backend and Databases"/></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postman,vscode" />
-</p>
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postman,vscode" alt="Tools"/></p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
- alt="Most Used Languages"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=BuildBy-Utkarsh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildBy-Utkarsh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -91,10 +64,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.demolab.com/?user=BuildBy-Utkarsh&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=BuildBy-Utkarsh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -102,38 +72,42 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BuildBy-Utkarsh&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildBy-Utkarsh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">C++ DSA Series</h3>
+      <p align="center">A structured collection of DSA concepts, implementations and problem-solving practice in C++.</p>
+      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/CPP-DSA-Series"><strong>View Repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Development</h3>
+      <p align="center">My frontend learning journey, projects and practical implementations.</p>
+      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/web-dev"><strong>View Repository →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Amazon Clone</h3>
+      <p align="center">A frontend project built while practicing HTML and CSS.</p>
+      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/amazon-clone"><strong>View Repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NeetCode Submissions</h3>
+      <p align="center">Problem-solving submissions and practice from NeetCode.</p>
+      <p align="center"><a href="https://github.com/BuildBy-Utkarsh/neetcode-submissions"><strong>View Repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-
-<a href="https://github.com/BuildBy-Utkarsh/CPP-DSA-Series">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=BuildBy-Utkarsh&repo=CPP-DSA-Series&theme=tokyonight&hide_border=true"
-    alt="CPP DSA Series"
-  />
-</a>
-
-<a href="https://github.com/BuildBy-Utkarsh/web-dev">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=BuildBy-Utkarsh&repo=web-dev&theme=tokyonight&hide_border=true"
-    alt="Web Development"
-  />
-</a>
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View All Repositories"/>
-  </a>
+  <a href="https://github.com/BuildBy-Utkarsh?tab=repositories">View all repositories →</a>
 </p>
 
 ---
@@ -141,74 +115,37 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/BuildBy-Utkarsh/BuildBy-Utkarsh/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuildBy-Utkarsh/BuildBy-Utkarsh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BuildBy-Utkarsh/BuildBy-Utkarsh/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/BuildBy-Utkarsh/BuildBy-Utkarsh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
-
----
-
-# 📌 Current Focus
-
-```text
-DSA & Problem Solving
-        ↓
-      C++
-        ↓
-Frontend Development
-        ↓
-Real-world Projects
-        ↓
-Software Engineering
-```
 
 ---
 
 # 📚 Learning in Public
 
-<p align="center">
-  <a href="https://x.com/UtkarshSolves">
-    <img src="https://img.shields.io/badge/Follow%20my%20journey%20on%20X-000000?style=for-the-badge&logo=x" alt="X"/>
-  </a>
-</p>
+I regularly share my coding progress, projects, problem-solving practice and development journey.
 
-I regularly share my learning progress, coding problems, projects and development journey.
+<p align="center">
+  <a href="https://x.com/UtkarshSolves"><img src="https://img.shields.io/badge/Follow%20my%20journey%20on%20X-000000?style=for-the-badge&logo=x" alt="Follow on X"/></a>
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://x.com/UtkarshSolves">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/>
-</a>
-
-<a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://leetcode.com/u/utkarshsolves/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/profile/utkarsh221?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<a href="https://discord.gg/H9hScTpCHh">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
+  <a href="https://x.com/UtkarshSolves"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/utkarsh-pratap-singh-a297212a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/utkarshsolves/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/profile/utkarsh221?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://discord.gg/H9hScTpCHh"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
-<p align="center">
-  📫 <strong>Email:</strong> singhutkarsh297@gmail.com
-</p>
+<p align="center">📫 <strong>Email:</strong> singhutkarsh297@gmail.com</p>
 
 ---
 
-<p align="center">
-  ⭐ If you find my repositories useful, consider giving them a star!
-</p>
+<p align="center">⭐ If you find my repositories useful, consider giving them a star!</p>
