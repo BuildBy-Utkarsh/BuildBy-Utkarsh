@@ -42,7 +42,8 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" alt="Backend and Databases"/></p>
 
 ### Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postman,vscode,vercel,chrome" alt="Tools"/></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postman,vscode,vercel" alt="Tools"/></p>
+<p><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome DevTools"/></p>
 
 ---
 
