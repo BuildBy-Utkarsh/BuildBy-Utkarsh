@@ -36,7 +36,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 <p><img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript" alt="Languages"/></p>
 
 ### Frontend
-<p><img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" alt="Frontend"/></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" alt="Frontend"/></p>
 
 ### Backend & Databases
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" alt="Backend and Databases"/></p>
