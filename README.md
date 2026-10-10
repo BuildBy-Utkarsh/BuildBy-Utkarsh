@@ -26,7 +26,7 @@ Currently, I'm working with **C++ for DSA** while continuing to build frontend p
 - 💻 Building projects and practicing problem solving consistently
 - 📝 Sharing my learning journey on [X](https://x.com/UtkarshSolves)
 - 📫 **singhutkarsh297@gmail.com**
-- ⚡ Fun fact: **I think I'm funny 😄**
+- ⚡ Fun fact: **My attention span is so cooked that I need a subway surfers gameplay video running in my head just to listen to you right now 😄**
 
 ---
 
