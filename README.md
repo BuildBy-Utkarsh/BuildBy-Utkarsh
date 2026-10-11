@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer • DSA in C++ • Frontend Development</h3>
 
 <p align="center">
-  <a href="https://github.com/BuildBy-Utkarsh"><img src="https://shieldcn.dev/views/user/BuildBy-Utkarsh.svg?variant=branded" alt="Profile Views"/></a>
+  <a href="https://github.com/BuildBy-Utkarsh"><img src="https://komarev.com/ghpvc/?username=BuildBy-Utkarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></a>
   <a href="https://github.com/BuildBy-Utkarsh?tab=repositories"><img src="https://img.shields.io/github/stars/BuildBy-Utkarsh?affiliations=OWNER&style=flat" alt="GitHub Stars"/></a>
   <a href="https://github.com/BuildBy-Utkarsh?tab=followers"><img src="https://img.shields.io/github/followers/BuildBy-Utkarsh?style=flat" alt="GitHub Followers"/></a>
 </p>
