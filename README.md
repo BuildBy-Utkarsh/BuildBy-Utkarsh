@@ -21,7 +21,7 @@ I'm a developer from India focused on **problem solving, Data Structures & Algor
 
 Currently, I'm working with **C++ for DSA** while continuing to build frontend projects and strengthen my development fundamentals.
 
-- 🔭 Working on [C++ DSA Series](https://github.com/BuildBy-Utkarsh/CPP-DSA-Series)
+- 🔭 Working on [Web Development](https://github.com/BuildBy-Utkarsh/web-dev)
 - 🌱 Learning **DSA + Frontend Development**
 - 💻 Building projects and practicing problem solving consistently
 - 📝 Sharing my learning journey on [X](https://x.com/UtkarshSolves)
