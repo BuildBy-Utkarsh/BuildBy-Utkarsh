@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: BuildBy-Utkarsh
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#f76707&color_dots=#ebedf0,#fff3bf,#ffe066,#ffc078,#ff922b
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffb000&color_dots=#161b22,#4a2c16,#8c4b12,#d97706,#ffb000
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
